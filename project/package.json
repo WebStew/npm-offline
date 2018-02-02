@@ -20,6 +20,7 @@
     "fontfaceobserver": "^2.0.13",
     "history": "^4.7.2",
     "hoist-non-react-statics": "^2.3.1",
+    "i18next": "^10.3.0",
     "immutable": "^3.8.2",
     "intl": "^1.2.5",
     "invariant": "^2.2.2",
@@ -32,11 +33,13 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",
+    "react-i18next": "^7.3.4",
     "react-intl": "^2.4.0",
     "react-loadable": "^5.3.1",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^4.0.8",
+    "react-thunk": "^1.0.0",
     "redux": "^3.7.2",
     "redux-immutable": "^4.0.0",
     "redux-saga": "^0.16.0",
@@ -47,7 +50,7 @@
     "stylelint": "^8.4.0",
     "vue": "^2.5.13",
     "warning": "3.0.0",
-"whatwg-fetch": "2.0.3"
+    "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "2.0.1",
@@ -101,5 +104,5 @@
     "webpack": "3.5.5",
     "webpack-dev-middleware": "1.11.0",
     "webpack-hot-middleware": "2.18.0"
-}
+  }
 }
